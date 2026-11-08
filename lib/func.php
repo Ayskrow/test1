@@ -1,6 +1,6 @@
 <?php
 
-// ФУНКЦИЯ ДОБАВЛЕНИЯ ОТЗЫВА
+
 
 function addInfo($data){
 
@@ -19,7 +19,7 @@ function addInfo($data){
 }
 
 
-// ФУНКЦИЯ ПОЛУЧЕНИЯ ОТЗЫВОВ
+
 
 function getInfo(){
 
