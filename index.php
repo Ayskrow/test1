@@ -11,7 +11,7 @@ if(isset($_GET['click'])){
 }
 
 
-// ПОЛУЧЕНИЕ ОТЗЫВОВ
+
 
 $comments = getInfo();
 $data = [];
