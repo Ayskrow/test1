@@ -70,6 +70,7 @@ nav a:hover {
         center/cover;
 }
 
+
 .hero-content {
     max-width: 650px;
 }
@@ -125,7 +126,6 @@ main {
 
 .card {
     display: flex;
-    background: #fffaf0;
     border: 1px solid #ded3b9;
     transition: 0.3s;
     overflow: hidden;
@@ -158,9 +158,14 @@ main {
     margin-bottom: 15px;
 }
 
-.card-content p {
+.card_p {
     color: #777c6b;
     line-height: 1.7;
+}
+.price{
+    color: gold;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 
